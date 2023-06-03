@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "cXILEzOoAvXn7iRKPUfYLZ3zWQXIvCcc8Y/wOdK49Ug=",
+  "Source": "HuellitasCompleto",
+  "BasePath": "_content/HuellitasCompleto",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "HuellitasCompleto\\wwwroot",
+      "Source": "HuellitasCompleto",
+      "ContentRoot": "C:\\Users\\mheve\\source\\repos\\HuellitasCompleto\\HuellitasCompleto\\wwwroot\\",
+      "BasePath": "_content/HuellitasCompleto",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\mheve\\source\\repos\\HuellitasCompleto\\HuellitasCompleto\\wwwroot\\default.htm",
+      "SourceId": "HuellitasCompleto",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mheve\\source\\repos\\HuellitasCompleto\\HuellitasCompleto\\wwwroot\\",
+      "BasePath": "_content/HuellitasCompleto",
+      "RelativePath": "default.htm",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\default.htm"
+    }
+  ]
+}
